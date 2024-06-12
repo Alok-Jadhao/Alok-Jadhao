@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on 
+- 🌱 I’m currently learning Data Structures and Algorithms, and Python for Data Science and Machine Learning.
+- 👯 I want to collaborate on DevOps basics such as Docker and Kubernetes.
+- 🤔 I’m seeking help with Cloud tools like AWS, and Google Cloud.
+- 💬 Ask me about core Programming Concepts, Core Java, C Programming, Shell Scripting.
+- 📫 How to reach me: email: jadhaoalok51@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Just a drop of knowledge in the vast ocean of curiosity.
+
 <!--
 **Alok-Jadhao/Alok-Jadhao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
