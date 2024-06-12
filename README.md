@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on 
+- 🔭 I’m currently working on building my CS Fundamentals
 - 🌱 I’m currently learning Data Structures and Algorithms, and Python for Data Science and Machine Learning.
 - 👯 I want to collaborate on DevOps basics such as Docker and Kubernetes.
 - 🤔 I’m seeking help with Cloud tools like AWS, and Google Cloud.
